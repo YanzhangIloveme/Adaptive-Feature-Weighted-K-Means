@@ -202,4 +202,4 @@ if __name__ == '__main__':
     plt.title('feature_importance')
     plt.show()
 
-model.plot()
+    model.plot()
